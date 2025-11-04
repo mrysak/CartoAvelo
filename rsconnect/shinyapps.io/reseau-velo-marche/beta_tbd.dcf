@@ -1,0 +1,13 @@
+name: beta_tbd
+title: beta_tbd
+username: reseau-velo-marche
+account: reseau-velo-marche
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15058303
+bundleId: 11123995
+url: https://reseau-velo-marche.shinyapps.io/beta_tbd/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dev/01_start.R|dev/02_dev.R|dev/03_deploy.R|tests/spelling.R|tests/testthat.R|files

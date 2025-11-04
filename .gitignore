@@ -1,0 +1,12 @@
+.Rproj.user
+.Rbuildignore
+.Rhistory
+
+dev/
+files/
+tests/
+data/
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
